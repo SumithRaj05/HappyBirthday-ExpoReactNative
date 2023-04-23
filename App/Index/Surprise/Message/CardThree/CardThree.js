@@ -94,7 +94,7 @@ const CardThree = (props) => {
                             }}
                         >Try again heheh</Text>
                     :
-                    <View></View>
+                    undefined
             }
             <View style={styles.reelContainer}>
                 <View style={styles.reelBox}>
