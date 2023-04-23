@@ -9,23 +9,23 @@
 <ul>
 
 <li><h2>Android app Icon with name SR Birthday.</h2></li>
-<img src="./ss/ss1.jpeg">
+<img src="./ss/ss1.jpeg" />
 <br><br>
 <li><h2>Starting Page.</h2></li>
-<img src="./ss/ss7.jpeg">
+<img src="./ss/ss7.jpeg" />
 <br><br>
 <li><h2>Surprise Page with wishing board and firework at back.</h2></li>
-<img src="./ss/ss4.jpeg">
+<img src="./ss/ss4.jpeg" />
 <br><br>
 <li><h2>Futher options to proceed.</h2></li>
-<img src="./ss/ss5.jpeg">
+<img src="./ss/ss5.jpeg" />
 <br><br>
 <li><h2>First Option says a Poem for whoever that is for.</h2></li>
-<img src="./ss/ss6.jpeg">
+<img src="./ss/ss6.jpeg" />
 <br><br>
 <li><h2>Second Option says to blow up the candles, and further is more surprise.</h2></li>
-<img src="./ss/ss2.jpeg">
+<img src="./ss/ss2.jpeg" />
 <br><br>
 <li><h2>Third Option is a mini game, Slot machine.</h2></li>
-<img src="./ss/ss3.jpeg">
+<img src="./ss/ss3.jpeg" />
 </ul>
